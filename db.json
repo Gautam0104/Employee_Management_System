@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "firstname": "kavish ",
+      "lastname": "mathur",
+      "birthdate": "2023-04-06",
+      "gender": "m",
+      "education": "graduate",
+      "company": "substring  technology",
+      "jobExperience": 1,
+      "salary": 2,
+      "profile": "20230314_133248.jpg",
+      "id": 12
+    },
+    {
+      "firstname": "gautam ",
+      "lastname": "shukla",
+      "birthdate": "2002-04-02",
+      "gender": "m",
+      "education": "graduate",
+      "company": "SubstringTechnology",
+      "jobExperience": 1,
+      "salary": 5,
+      "profile": "IMG-20230218-WA0004.jpg",
+      "id": 13
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
